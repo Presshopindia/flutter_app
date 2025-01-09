@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.projectKey=flutter_app_key" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.token=sqp_ad30a2c22dcd8ce7885704d61ed6a6a262370e33"
